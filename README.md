@@ -149,7 +149,10 @@ const RevyLab = {
 </div>
 
 <!-- Project Licenses Section -->
-## 📜 Project Licenses
+## 📜 Project Info
+<details>
+  <br>
+<summary>📋 View Project</summary>
 <div align="center">
   <table align="center" style="width: 100%; font-size: 12px;">
     <thead align="center">
@@ -208,7 +211,7 @@ const RevyLab = {
 
   <!-- License Details Expandable Section -->
   <details>
-    <summary><sub>📋 View License Details</sub></summary>
+    <summary>📋 View License Details</summary>
     <br>
     <table align="center" style="width: 80%; font-size: 12px; margin: 0 auto;">
       <thead>
@@ -259,6 +262,7 @@ const RevyLab = {
         </tr>
       </tbody>
     </table>
+  </details>
   </details>
 </div>
 
