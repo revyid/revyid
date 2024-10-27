@@ -211,7 +211,7 @@ const RevyLab = {
 
   <!-- License Details Expandable Section -->
   <details>
-    <summary>📋 View License Details</summary>
+    <summary align="center">📋 View License Details</summary>
     <br>
     <table align="center" style="width: 80%; font-size: 12px; margin: 0 auto;">
       <thead>
