@@ -125,7 +125,7 @@ const RevyLab = {
 <!-- Contact Section with Enhanced Styling -->
 ## 📫 Let's Connect
 <div align="center">
-  <a href="https://tiktok.com/@revy.id" target="_blank">
+  <a href="https://tiktok.com/@revys.id" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://www.linkedin.com/in/revy-id-18311b335" target="_blank">
