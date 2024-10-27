@@ -128,7 +128,7 @@ const RevyLab = {
   <a href="https://linkedin.com/in/revylab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://twitter.com/revylab" target="_blank">
+  <a href="https://twitter.com/revyid" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
   </a>
   <a href="https://instagram.com/revylab" target="_blank">
