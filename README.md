@@ -150,11 +150,9 @@ const RevyLab = {
 
 <!-- Project Licenses Section -->
 ## 📜 Project Info
-<div align="center">
-<details>
+<details align="center">
   <br>
 <summary>📋 View Project</summary>
-</div>
 <div>
   <table align="center" style="width: 100%; font-size: 12px;">
     <thead align="center">
