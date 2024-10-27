@@ -126,8 +126,7 @@ const RevyLab = {
 ## 📫 Let's Connect
 <div align="center">
   <a href="https://tiktok.com/@revy.id" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000
-"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://www.linkedin.com/in/revy-id-18311b335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
