@@ -114,7 +114,7 @@ const RevyLab = {
 <!-- Featured Projects with Hover Effects -->
 ## 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/revylab/project1">
+  <a href="https://github.com/revylab/profile">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=revylab&repo=profile&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/revylab/project2">
