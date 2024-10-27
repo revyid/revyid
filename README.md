@@ -166,8 +166,8 @@ const RevyLab = {
     <tbody align="left">
       <tr>
         <td>
-          <a href="https://github.com/revylab/project1">
-            <img src="https://img.shields.io/badge/Project_1-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" width="90px"/>
+          <a href="https://github.com/revylab/profile">
+            <img src="https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" width="90px"/>
           </a>
         </td>
         <td align="center">
