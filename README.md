@@ -125,11 +125,12 @@ const RevyLab = {
 <!-- Contact Section with Enhanced Styling -->
 ## 📫 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/revy-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  <a href="https://tiktok.com/@revy.id" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000
+"/>
   </a>
-  <a href="https://twitter.com/revyid" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+  <a href="https://www.linkedin.com/in/revy-id-18311b335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   <a href="https://instagram.com/revylab" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
