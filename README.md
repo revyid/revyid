@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=210&section=header&text=Revy%20Lab&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Code&descSize=20&descAlignY=55&fontColor=fff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=210&section=header&text=RevyLab&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Code&descSize=20&descAlignY=55&fontColor=fff"/>
 </div>
 
 <!-- Introduction with Enhanced Typing Effect -->
