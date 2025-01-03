@@ -1,18 +1,18 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=210&section=header&text=RevyLab&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Code&descSize=20&descAlignY=55&fontColor=fff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=210&section=header&text=RevyLab&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Crafting%20Beautiful%20User%20Experiences&descSize=20&descAlignY=55&fontColor=fff"/>
 </div>
 
 <!-- Introduction with Enhanced Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3BACB6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Software+Engineer+%F0%9F%9B%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3BACB6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=100&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;React+Specialist+%F0%9F%9B%A0" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Animated Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-dodgerblue?style=for-the-badge&logo=web&logoColor=white&labelColor=2B2D42&color=1B998B" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue?style=for-the-badge&logo=react&logoColor=white&labelColor=2B2D42&color=1B998B" />
   <img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=2B2D42&color=FF6B6B" />
   <img src="https://img.shields.io/badge/Available-Freelance-green?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=2B2D42&color=4ECDC4" />
 </div>
@@ -29,27 +29,21 @@
     
 ```javascript
 const RevyLab = {
-    pronouns: "Developer | Designer | Creator",
-    code: ["JavaScript", "Python", "PHP", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "design"],
+    pronouns: "Frontend Developer | UI Designer | Creator",
+    code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    askMeAbout: ["frontend dev", "web design", "UI/UX", "responsive design"],
     technologies: {
-        frontEnd: {
+        frontend: {
             js: ["React", "Vue", "Next.js"],
             css: ["Tailwind", "Bootstrap", "SASS"],
             framework: ["Material-UI", "Chakra UI"]
         },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            php: ["Laravel"]
-        },
-        mobile: ["React Native", "Flutter"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["AWS", "Docker", "Nginx"],
-        tools: ["Git", "GitHub", "Bitbucket", "JIRA"]
+        design: ["Figma", "Adobe XD", "Sketch"],
+        testing: ["Jest", "React Testing Library", "Cypress"],
+        tools: ["Git", "Webpack", "Vite", "ESLint"]
     },
-    currentFocus: "Building digital solutions that make a difference",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Creating beautiful and performant user interfaces",
+    funFact: "The best code is no code at all, the second best is code that's easy to delete"
 };
 ```
   </details>
@@ -76,42 +70,41 @@ const RevyLab = {
 ## 🛠️ Skills & Technologies
 <div align="center">
   
-  <!-- Languages -->
-  <h4>Programming Languages</h4>
+  <!-- Core Languages -->
+  <h4>Core Technologies</h4>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"/>
   </p>
   
-  <!-- Frontend -->
-  <h4>Frontend Development</h4>
+  <!-- Frontend Frameworks -->
+  <h4>Frontend Frameworks & Libraries</h4>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000"/>
+  </p>
+  
+  <!-- Styling & UI Libraries -->
+  <h4>Styling & UI Libraries</h4>
+  <p>
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC"/>
+    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=0081CB"/>
+    <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&labelColor=319795"/>
   </p>
   
-  <!-- Backend -->
-  <h4>Backend Development</h4>
+  <!-- Development Tools -->
+  <h4>Development Tools</h4>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20"/>
-  </p>
-  
-  <!-- Database -->
-  <h4>Database</h4>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC"/>
   </p>
 </div>
 
-<!-- Featured Projects with Hover Effects -->
+<!-- Featured Projects -->
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/revylab/profile">
@@ -122,7 +115,7 @@ const RevyLab = {
   </a>
 </div>
 
-<!-- Contact Section with Enhanced Styling -->
+<!-- Contact Section -->
 ## 📫 Let's Connect
 <div align="center">
   <a href="https://tiktok.com/@revys.id" target="_blank">
@@ -142,128 +135,10 @@ const RevyLab = {
   </a>
 </div>
 
-<!-- Profile Views Counter with Enhanced Style -->
+<!-- Profile Views Counter -->
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=revylab&label=Profile%20Views&color=FF6B6B&style=for-the-badge"/>
-</div>
-
-<!-- Project Licenses Section -->
-## 📜 Project Info
-<details align="center">
-  <br>
-<summary>📋 View Project</summary>
-<div>
-  <table align="center" style="width: 100%; font-size: 12px;">
-    <thead align="center">
-      <tr>
-        <th width="20%"><b>Project</b></th>
-        <th width="15%"><b>License</b></th>
-        <th width="15%"><b>Status</b></th>
-        <th width="50%"><b>Description</b></th>
-      </tr>
-    </thead>
-    <tbody align="left">
-      <tr>
-        <td>
-          <a href="https://github.com/revylab/profile">
-            <img src="https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" width="90px"/>
-          </a>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/MIT-green.svg?style=flat-square&label=License" width="70px"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/-Active-success?style=flat-square&logo=checkmarx&logoColor=white" width="65px"/>
-        </td>
-        <td><sub>A brief description of Project 1 that showcases its main features and purpose</sub></td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/revylab/project2">
-            <img src="https://img.shields.io/badge/Project_2-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" width="90px"/>
-          </a>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Apache-blue.svg?style=flat-square&label=License" width="70px"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/-Maintained-blue?style=flat-square&logo=symphony&logoColor=white" width="80px"/>
-        </td>
-        <td><sub>Project 2 description goes here with its key features explained concisely</sub></td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/revylab/project3">
-            <img src="https://img.shields.io/badge/Project_3-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" width="90px"/>
-          </a>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/GPL_3.0-blue.svg?style=flat-square&label=License" width="70px"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/-Completed-gray?style=flat-square&logo=checkmarx&logoColor=white" width="75px"/>
-        </td>
-        <td><sub>Concise description of Project 3 highlighting its main achievements</sub></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- License Details Expandable Section -->
-  <details>
-    <summary align="center">📋 View License Details</summary>
-    <br>
-    <table align="center" style="width: 80%; font-size: 12px; margin: 0 auto;">
-      <thead>
-        <tr>
-          <th>License</th>
-          <th>Key Permissions</th>
-          <th>Requirements</th>
-        </tr>
-      </thead>
-      <tbody align="center">
-        <tr>
-          <td><b>MIT</b></td>
-          <td>
-            <sub>✔️ Commercial Use</sub><br>
-            <sub>✔️ Distribution</sub><br>
-            <sub>✔️ Modification</sub>
-          </td>
-          <td>
-            <sub>📝 License Notice</sub><br>
-            <sub>📝 Copyright Notice</sub>
-          </td>
-        </tr>
-        <tr>
-          <td><b>Apache 2.0</b></td>
-          <td>
-            <sub>✔️ Commercial Use</sub><br>
-            <sub>✔️ Patent Use</sub><br>
-            <sub>✔️ Modification</sub>
-          </td>
-          <td>
-            <sub>📝 License Notice</sub><br>
-            <sub>📝 State Changes</sub><br>
-            <sub>📝 Copyright Notice</sub>
-          </td>
-        </tr>
-        <tr>
-          <td><b>GPL 3.0</b></td>
-          <td>
-            <sub>✔️ Commercial Use</sub><br>
-            <sub>✔️ Patent Use</sub><br>
-            <sub>✔️ Distribution</sub>
-          </td>
-          <td>
-            <sub>📝 Disclose Source</sub><br>
-            <sub>📝 Same License</sub><br>
-            <sub>📝 State Changes</sub>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </details>
-  </details>
 </div>
 
 <!-- Support Section -->
