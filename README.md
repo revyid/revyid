@@ -109,17 +109,6 @@ const RevyLab = {
   </p>
 </div>
 
-<!-- Featured Projects -->
-## 🌟 Featured Projects
-<div align="center">
-  <a href="https://github.com/revylab/profile">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=revylab&repo=profile&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/revylab/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=revylab&repo=project2&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
 <!-- Contact Section -->
 ## 📫 Let's Connect
 <div align="center">
