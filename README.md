@@ -85,7 +85,7 @@ const revy = {
 
 <div align="center">
 
-[![Main Page](https://github-readme-stats.vercel.app/api/pin/?username=revyid&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/revyid/next.git)
+[![Main Page](https://github-readme-stats.vercel.app/api/pin/?username=revyid&repo=next&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/revyid/next)
 
 </div>
 
