@@ -1,0 +1,309 @@
+{
+ "key": "327d3f59",
+ "stars": 6,
+ "contributions": 699,
+ "repos": 17,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   4450766
+  ],
+  [
+   "HTML",
+   930906
+  ],
+  [
+   "QML",
+   681833
+  ],
+  [
+   "Python",
+   398751
+  ],
+  [
+   "CSS",
+   233482
+  ],
+  [
+   "PLpgSQL",
+   160290
+  ],
+  [
+   "JavaScript",
+   118123
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 15,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 19,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 6
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "3d",
+   "url": "https://github.com/revyid/3d",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "next",
+   "url": "https://github.com/revyid/next",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "FileShorter",
+   "url": "https://github.com/revyid/FileShorter",
+   "text": "A simple script to organize your files by type, size, date, or extension. Ideal for keeping your workspace clean and organized with minimal effort. Customizable and easy to use.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "revyid",
+   "url": "https://github.com/revyid/revyid",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "School-App",
+   "url": "https://github.com/revyid/School-App",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "hyprnotch",
+   "url": "https://github.com/revyid/hyprnotch",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "sclix",
+   "url": "https://github.com/revyid/sclix",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "infor",
+   "url": "https://github.com/revyid/infor",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "mrevi",
+   "url": "https://github.com/revyid/mrevi",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "cURL-ts",
+   "url": "https://github.com/revyid/cURL-ts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "mc-manager",
+   "url": "https://github.com/revyid/mc-manager",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "AIKeyboard",
+   "url": "https://github.com/revyid/AIKeyboard",
+   "text": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ReClaw",
+   "url": "https://github.com/revyid/ReClaw",
+   "text": "Upgraded ReClaw AI Agentic Coding Assistant with modern minimalist UI and advanced features.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pmrsmansa",
+   "url": "https://github.com/revyid/pmrsmansa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "app",
+   "url": "https://github.com/revyid/app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "redeploy-cli",
+   "url": "https://github.com/revyid/redeploy-cli",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ipgeo",
+   "url": "https://github.com/revyid/ipgeo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
