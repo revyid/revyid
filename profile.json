@@ -1,17 +1,17 @@
 {
   "version": 1,
   "login": "revyid",
-  "seed": "#0A100E",
+  "seed": "#0F1714",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
-    "about",
     "socials",
-    "projects",
+    "about",
     "stack",
+    "projects",
     "stats",
     "streak",
     "wave",
@@ -21,17 +21,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Jambi"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "TypeScript · JavaScript"
       }
     ]
   },
@@ -44,7 +44,11 @@
       },
       {
         "icon": "code",
-        "label": "Fullstack web developer"
+        "label": "Fullstack Developer"
+      },
+      {
+        "icon": "palette",
+        "label": "Modern Design"
       }
     ]
   },
@@ -63,8 +67,12 @@
             "label": "React"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:nodedotjs",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
           }
         ]
       },
@@ -76,29 +84,33 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:vercel",
+            "label": "Vercel"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:podman",
+            "label": "Podman"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:prisma",
+            "label": "Prisma"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "I Use Arch BTW"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "manual",
-    "repos": [
-      "mrevi",
-      "hyprnotch",
-      "School-App",
-      "redeploy-cli"
-    ],
-    "overrides": {
-      "School-App": {},
-      "hyprnotch": {}
-    },
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -122,16 +134,16 @@
   "socials": {
     "items": [
       {
+        "icon": "brand:github",
+        "url": "https://github.com/revyid"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://instagram.com/revy.id"
+      },
+      {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/RevyAja"
       }
     ],
     "variant": "chip",
